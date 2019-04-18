@@ -1,0 +1,7 @@
+f:\Assignment_5_CSharp\Assignment5\FrequencyOfArray\bin\Debug\FrequencyOfArray.exe.config
+f:\Assignment_5_CSharp\Assignment5\FrequencyOfArray\bin\Debug\FrequencyOfArray.exe
+f:\Assignment_5_CSharp\Assignment5\FrequencyOfArray\bin\Debug\FrequencyOfArray.pdb
+f:\Assignment_5_CSharp\Assignment5\FrequencyOfArray\obj\Debug\FrequencyOfArray.csprojAssemblyReference.cache
+f:\Assignment_5_CSharp\Assignment5\FrequencyOfArray\obj\Debug\FrequencyOfArray.csproj.CoreCompileInputs.cache
+f:\Assignment_5_CSharp\Assignment5\FrequencyOfArray\obj\Debug\FrequencyOfArray.exe
+f:\Assignment_5_CSharp\Assignment5\FrequencyOfArray\obj\Debug\FrequencyOfArray.pdb
